@@ -1,7 +1,7 @@
 {
-    "name": "Fortnite",
-    "description": "Fortnite",
+    "name": "Ultraviolet App",
+    "description": "Node.js Ultraviolet instance",
     "repository": "https://github.com/1738myass/Ultraviolet-Node",
     "logo": "https://github.com/titaniumnetwork-dev/Ultraviolet/blob/main/uv.png?raw=true",
-    "keywords": ["yes", "yes"]
+    "keywords": ["tomp", "ultraviolet"]
 }
